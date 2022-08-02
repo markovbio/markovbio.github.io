@@ -182,7 +182,7 @@ To understand how much single-cell methods have taken off, consider the followin
 
 ![](../assets/HCA_cell_counts.png)
 
-This is a plot of the number of cells in each study added to the Human Cell Atlas, which aims to “create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.” The number of cells per study has been doubling around every 18 months—and the frequency with which studies are added is increasing too.
+This is a plot of the number of cells in each study added to the Human Cell Atlas, which aims to “create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.” The number of cells per study has been increasing by an order of magnitude a little under every 3 years—and the frequency with which studies are added is increasing too.
 
 The HCA explains their immense ambitions like so:
 
