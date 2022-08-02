@@ -308,23 +308,23 @@ That is, LSFM gives us the ability to longitudinally profile large 3D _living, i
 
 Needless to say, the technology underlying LSFM has advanced quite a lot over the past two decades. The beautiful thing about spatio-temporally resolved methods is that we can easily witness these advances with our eyes. For instance, we can compare the state of the art in imaging fly embryogenesis [in 2004](https://www.science.org/doi/abs/10.1126/science.1100035) vs. [in 2016](https://www.nature.com/articles/nbt.3708) (if the videos don't play, try opening them in a separate window):
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/bDkCQIm-zbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bDkCQIm-zbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/cn6xmBXK4Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cn6xmBXK4Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 Yet in just the past year, we have seen further advances still. [A new, simplified system](https://www.nature.com/articles/s41592-022-01417-2) has improved imaging speed while maintaining sub-micron lateral and sub-two-micron axial resolution—and on large specimens, no less.
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/uFDjHlHUqG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uFDjHlHUqG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 And recently an LSFM [method was developed](https://www.nature.com/articles/s41551-022-00849-7) that can image tissues at subcellular resolution _in situ_, without the need for exogenous fluorescent dyes—in effect, a kind of in vivo 3D histology. The applications of this technology, to both research and diagnostics, [are numerous](https://www.nature.com/articles/s41551-022-00897-z).<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><br><br>You might be asking how one can perform LSFM on in situ tissue if there are no fluorophores to excite. To solve this, the researchers exploit the [natural fluorescent emission](https://en.wikipedia.org/wiki/Autofluorescence) of some cellular structures, allowing for non-invasive “label-free imaging”—though this method is also compatible with traditional fluorescent dyes, as seen in the video below.<br><br></span>
 
 Here’s the stitching together of a 3D-resolved (but not temporally resolved) slice of in situ mouse kidney:
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/sUdJjQuGmO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sUdJjQuGmO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 And here’s real-time imaging of a fluorescent tracer dye perfusing mouse kidney tubules in situ:<input type="checkbox" id="cb9" /><label for="cb9"><sup></sup></label><span><br><br>Granted, both mouse kidney videos required anesthetizing the mouse and opening up its gut so its kidneys could be more directly exposed for imaging, so it's not exactly <i>noninvasive</i>.<br><br></span> 
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/vSaZ1sKCGho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vSaZ1sKCGho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 ### Scopes Redux
