@@ -1034,8 +1034,7 @@ The quality of this experimental selection determines how efficiently biocompute
 
 However, biomedical dynamics are incredibly complex, so efficient experimental selection requires planning, especially when multiple types of experiment are possible. Thus, experimental selection [amounts to](https://arxiv.org/pdf/1708.02383.pdf) a kind of reinforcement learning task. 
 
-Currently, this reinforcement learning task is being tackled by decentralized groups of humans. In the near-future, AI agents will play a role in this experimental selection.
-
+Currently, this reinforcement learning task is being tackled by decentralized groups of humans. In the near-future, AI agents will play a greater role in it.
 
 ### Centaur Research Agents
 
