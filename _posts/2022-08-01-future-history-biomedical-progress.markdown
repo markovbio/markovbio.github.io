@@ -1038,7 +1038,7 @@ Currently, this reinforcement learning task is being tackled by decentralized gr
 
 ### Centaur Research Agents
 
-That said, at first AI agents will be unable to efficiently run the experimental loop themselves. Therefore, in the [translational](https://en.wikipedia.org/wiki/Translational_research) research context, we’ll first see “[centaurs](https://en.wikipedia.org/wiki/Advanced_chess)”—human agents augmented with AI tools.
+At first, AI agents will be unable to efficiently run the experimental loop themselves. Therefore, in the [translational](https://en.wikipedia.org/wiki/Translational_research) research context, we’ll first see “[centaurs](https://en.wikipedia.org/wiki/Advanced_chess)”—human agents augmented with AI tools.
 
 Initially, in the centaur setup, the AI’s main role will be as a dynamics model, which the human will query as an aid to experimental planning and selection. (Up to this point in the essay, this is the only role we’ve discussed machine learning models playing.) For instance, the human could have the AI run in silico rollouts of possible experiments, in order to select the one that maximizes predicted information gain over some time horizon (as evaluated by the human). In this scenario, the human is still firmly in the driver’s seat, determining the value of and selecting experiments—the machine is in the loop, but not directing it.
 
