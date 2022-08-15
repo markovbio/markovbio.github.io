@@ -449,9 +449,9 @@ Take cancer, for instance. Many indicators seem positive: [five-year survival ra
 
 Yes, there have undoubtedly been some successes in cancer therapeutics over the past few decades—Gleevec cured ([that is not an exaggeration](https://youtu.be/RjS0T_FK9rk?t=1511)) [chronic myeloid leukemia](https://seer.cancer.gov/statfacts/html/cmyl.html); and checkpoint inhibitors have improved treatment of [melanoma](https://www.nature.com/articles/s41590-022-01141-1), [NSCLC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6879313/), and a host of other cancers.
 
-But in terms of overall (age-stratified) mortality across all cancers, the picture is mixed.
+But in terms of overall (age-standardized) mortality across all cancers, the picture is mixed.
 
-In the below graph, we see this (note the log-10-transformed y-axis):<input type="checkbox" id="cb13" /><label for="cb13"><sup></sup></label><span><br><br>Unless otherwise noted, all the following analyses look at deaths or disability-adjusted life-years lost per 100k individuals between the ages of 55 and 89. Data come from [IHME](https://www.healthdata.org/)’s [Global Burden of Disease](https://vizhub.healthdata.org/gbd-results/) dataset.<br><br></span>
+In the below graph, we see this (note the log-10-transformed y-axis):<input type="checkbox" id="cb13" /><label for="cb13"><sup></sup></label><span><br><br>Unless otherwise noted, all the following analyses look at deaths or disability-adjusted life-years lost per 100k individuals between the ages of 55 and 89, on an age-standardized basis. Data come from [IHME](https://www.healthdata.org/)’s [Global Burden of Disease](https://vizhub.healthdata.org/gbd-results/) dataset.<br><br></span>
 
 ![](../assets/log_10_mortality_55_89.png)
 
