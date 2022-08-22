@@ -1017,7 +1017,7 @@ We have established that biomedical dynamics can be approximated through large n
 
 However, a question remains: how do we select these data? (And is power-law scaling the best we can do?)
 
-Unlike large language models, whose training data is a passive corpus that the model does not (yet) have an active role in generating, in biomedicine, we must [actively generate data](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) through observation and experimentation. This experimental loop is the defining feature of biomedical research. 
+Unlike large language models, whose training data is a passive corpus that the model does not (yet) have an active role in generating, in biomedicine we must [actively generate data](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) through observation and experimentation. This experimental loop is the defining feature of biomedical research. 
 
 This experimental loop is directed by biomedical research agents—currently, groups of human beings. However, in the long-run, this loop will increasingly rely on, and eventually be completely directed by, AI agents. That is, in silico compute will be fully directing the use of biocompute.
 
