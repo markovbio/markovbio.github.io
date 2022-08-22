@@ -1074,7 +1074,7 @@ Consider the simulacra we discussed earlier; they are but one type of biocompute
 At a certain point, the agent’s physical tools, not just its internal in silico tools, might be completely inscrutable to us.
 
 
-### Speculating on Future Trajectories of Biomedical Progress
+### Speculating on Future Trajectories of Biomedical Progress: Or, How to Make PASTA
 
 As data flows continue to accelerate, the human distributed scientific hive mind will hit its cognitive limits, unable to make sense of the fire-hose of biological data. Humans will begin ceding control to AI agents, which continue improving slowly but steadily. In due time, AI agents will come to dominate all of biomedical research—first therapeutics development, and eventually basic science. This will happen much quicker [than most expect](https://www.overcomingbias.com/2021/05/theories-of-unnatural-selection.html).
 
