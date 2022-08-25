@@ -23,7 +23,7 @@ Suppose you didn’t want to take the blob at its word. As glossy as the covers 
 * On what dimensions is biomedical research progressing? Are there quantifiable indicators that we could track over time—not just particular instances that people point to?
 * If the blob is progressing systematically in some direction, then toward what end? What does this accretion of knowledge amount to? What is the sausage that’s purportedly being made—and when will it be ready?
 
-When trying to answer these questions, we find ourselves in an epistemically adversarial environment, what we can call “hyperbolic science”. It is defined by two mutually reinforcing facets:
+When trying to answer these questions, we find ourselves in an epistemically adversarial environment, which we can call “hyperbolic science”. It is defined by two mutually reinforcing facets:
 
 **Hyperbolic information asymmetries**
 
@@ -41,10 +41,8 @@ Thus, information asymmetries and structural incentives conspire to make the blo
 
 These problems aren’t new. Derek de Solla Price identified them over sixty years ago in [one of the first](https://en.wikipedia.org/wiki/Trait%C3%A9_de_Documentation) books on academic bibliometrics, _[Science Since Babylon](http://derekdesollaprice.org/wp-content/uploads/2015/10/Science-Since-Babylon-opt.pdf)_: 
 
-> It seems also that we can no longer take the word of the scientists on the job. Their evaluation of the importance of their own research must also be unreliable, for they must support their own needs; even in the most ideal situation they can look only at neighboring parts of the research front, for it is not their own business to see the whole picture...
-
-Given the current mood of biomedical optimism, we ought to reconsider de Solla Price's warning.
+> It seems also that we can no longer take the word of the scientists on the job. Their evaluation of the importance of their own research must also be unreliable, for they must support their own needs; even in the most ideal situation they can look only at neighboring parts of the research front, for it is not their own business to see the whole picture.
  
-Hyperbolic science could be symptomatic of a world in which biomedical progress is simply too great and complex for lay people to keep up with—highly diffuse progress naturally leads to a feeling of diffuse optimism. We will soon see the fruits of this progress.
+Hyperbolic science could be symptomatic of a world in which biomedical progress is simply too great and complex for lay people to keep up with—highly diffuse progress naturally leads to a feeling of diffuse optimism. We will soon see the fruits of this progress. 
 
-But hyperbolic science also raises the possibility of something far more dire: massive, systemic distortions in our collective appraisal of the rate of biomedical progress. What we took to be an expansive, shimmering brightspot of progress might actually be a mirage of flitting particularities, shrouding an atrophying tree of knowledge that is no longer bearing fruit. And as we pick the few remaining low-hanging fruit from other trees and look for new orchards to satisfy our hunger for growth, these distortions will have increasingly existential ramifications.
+But hyperbolic science also raises the possibility of something far more dire: we are experiencing massive, systemic distortions in our collective appraisal of the rate of biomedical progress. What we took to be an expansive, shimmering brightspot of progress might actually be a mirage of flitting particularities, shrouding an atrophying tree of knowledge that is no longer bearing fruit. And as we pick the few remaining low-hanging fruit from other trees and look for new orchards to satisfy our hunger for growth, these distortions will have increasingly existential ramifications.
