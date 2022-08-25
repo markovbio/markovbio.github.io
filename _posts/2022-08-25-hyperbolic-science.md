@@ -9,7 +9,7 @@ We might call the academic-bureaucratic biomedical research apparatus “the blo
 
 Yet the blob isn’t static; it’s slippery and protean, constantly growing. Just as you feel you’ve found something to hold onto—a fragment of jargon or a promising research paper—the blob evolves and slips out of your grasp, and you’re left holding a mere artifact. Every year it extends its thousands of probing pseudopods further, enveloping more data, digesting them, and adding to the maze-like accretion that is Science.
 
-Yet this constant motion, this incessant evolution, makes the blob a shimmering bright spot of progress in an otherwise dark landscape of technological stagnation. Inscrutable though it may be, the blob is generating results.
+Yet this constant motion, this incessant evolution, makes the blob a shimmering bright spot of progress in an otherwise mostly dark landscape of technological stagnation. Inscrutable though it may be, the blob is generating results.
 
 Yes, on the margins there might be issues—the publish-or-perish mindset, the [replication crisis](https://www.nature.com/articles/d41586-021-03691-0), funding mechanisms, and slightly more acute issues like [Eroom’s law](https://en.wikipedia.org/wiki/Eroom%27s_law)—but these will eventually be solved.
 
