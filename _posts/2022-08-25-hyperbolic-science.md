@@ -41,11 +41,11 @@ Thus, information asymmetries and structural incentives conspire to make the blo
 
 These problems aren’t new. Derek de Solla Price identified them over sixty years ago in [one of the first](https://en.wikipedia.org/wiki/Trait%C3%A9_de_Documentation) books on academic bibliometrics, _[Science Since Babylon](http://derekdesollaprice.org/wp-content/uploads/2015/10/Science-Since-Babylon-opt.pdf)_: 
 
-> It seems also that we can no longer take the word of the scientists on the job. Their evaluation of the importance of their own research must also be unreliable, for they must support their own needs; even in the most ideal situation they can look only at neighboring parts of the research front, for it is not their own business to see the whole picture.
+> It seems also that we can no longer take the word of the scientists on the job. Their evaluation of the importance of their own research must also be unreliable, for they must support their own needs; even in the most ideal situation they can look only at neighboring parts of the research front, for it is not their own business to see the whole picture...
 
 > The trouble seems to be that it is no man’s business to understand the general patterns and reactions of science as the economist understands the business world…I must, however, suggest that the petty illnesses of science—its superabundance of literature, its manpower shortages, its increasing specialization, its tendency to deteriorate in quality—all these things are but symptoms of a general disease.
 
-Given the current mood of biomedical optimism, it's high time we reconsider de Solla Price's warning.
+Given the current mood of biomedical optimism, we ought to reconsider de Solla Price's warning.
  
 Hyperbolic science could be symptomatic of a world in which biomedical progress is simply too great and complex for lay people to keep up with—highly diffuse progress naturally leads to a feeling of diffuse optimism.
 
