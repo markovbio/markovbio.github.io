@@ -33,7 +33,7 @@ The second half of the essay is more prescriptive, looking toward the future of 
 
 <a href="#4-the-scaling-hypothesis-of-biomedical-dynamics">Part 4</a> will explain the scaling hypothesis of biomedical dynamics and why it is correct in the long-run.
 
-<a href="#5-biocompute-bottleneck">Part 5</a> will explain why biocomputational capacity is the primary bottleneck to biomedical progress over the next few decades. We’ll then briefly review how to build better biocomputers.
+<a href="#5-biocompute-bottleneck">Part 5</a> will explain why biocomputational capacity is the primary bottleneck to biomedical progress over the next few decades. We’ll then briefly outline how to build better biocomputers.
 
 <a href="#6-the-future-of-biomedical-research">Part 6</a> will sketch what the near- and long-term future of biomedical research might look like, and the role non-human agents will play in it.
 
