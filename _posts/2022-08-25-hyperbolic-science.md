@@ -17,7 +17,7 @@ And when they are, and the biomedical research community is no longer reined in 
 
 The above description might seem, well… florid.
 
-Suppose you didn’t want to take the blob at its word. As glossy as the covers of Nature and Science may be, you’re not convinced by the prima facie evidence for recent advances in biomedicine, and have some innocuous questions that you’d like answered. For instance:
+Suppose you didn’t want to take the blob at its word. As glossy as the covers of Nature and Science may be, you’re not convinced by the prima facie evidence for recent advances in biomedicine and have some innocuous questions that you’d like answered. For instance:
 
 * What do biomedical research scientists do day-to-day? What will the [$50B requested by the NIH for 2023](https://www.science.org/content/article/biden-s-2023-budget-request-science-aims-high-again) be used for? Is the answer so multifarious and evolving as to be beyond lay understanding?
 * On what dimensions is biomedical research progressing? Are there quantifiable indicators that we could track over time—not just particular instances that people point to?
