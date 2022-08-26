@@ -13,7 +13,7 @@ Yet this constant motion, this incessant evolution, makes the blob a shimmering 
 
 Yes, on the margins there might be issues—the publish-or-perish mindset, the [replication crisis](https://www.nature.com/articles/d41586-021-03691-0), funding mechanisms, and slightly more acute issues like [Eroom’s law](https://en.wikipedia.org/wiki/Eroom%27s_law)—but these will eventually be solved.
 
-And when they are, and the biomedical research community is no longer reined in by myopic grantors or encumbered by bureaucratic bloat, there will be a blossoming of research papers and a bearing of many biomedical fruit—the potential for which is currently lying latent in the minds of brilliant scientists, [yearning](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) to be nourished. [”Feed me, Seymour!”](https://www.youtube.com/watch?v=QETfA9_b7wM)
+And when they are, and the biomedical research community is no longer reined in by myopic grantors or encumbered by bureaucratic bloat, there will be a blossoming of research papers and a bearing of many biomedical fruit—the potential for which is currently lying latent in the minds of brilliant scientists, [yearning](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) to be nourished. [“Feed me, Seymour!”](https://www.youtube.com/watch?v=QETfA9_b7wM)
 
 The above description might seem, well… florid.
 
@@ -45,6 +45,6 @@ These problems aren’t new. Derek de Solla Price identified them over sixty yea
 
 Given the current mood of biomedical optimism, we ought to reconsider de Solla Price’s warning.
  
-Hyperbolic science could be symptomatic of a world in which biomedical progress is simply too great and complex for lay people to keep up with—highly diffuse progress naturally leads to a feeling of diffuse optimism. We will soon see the fruits of this progress. 
+Hyperbolic science could be symptomatic of a world in which biomedical progress is simply too great and complex for lay people to keep up with—highly diffuse progress naturally leads to a feeling of diffuse optimism—and we will soon see the fruits of this progress. 
 
-But hyperbolic science also raises the possibility of something far more dire: with no omniscient, accountable individual at the helm, the blob has created massive, systemic distortions in our collective appraisal of the rate of biomedical progress. What we took to be an expansive, shimmering brightspot of progress might actually be a mirage of flitting particularities, shrouding an atrophying tree of knowledge that is no longer bearing fruit. And as we pick the few remaining low-hanging fruit from other trees and look for new orchards to satisfy our hunger for growth, these distortions will have increasingly existential ramifications.
+But hyperbolic science also raises the possibility of something far more dire: the blob has created massive, systemic distortions in our collective appraisal of the rate of biomedical progress. What we took to be an expansive, shimmering brightspot of progress might actually be a mirage of flitting particularities, shrouding an atrophying tree of knowledge that is no longer bearing fruit. And as we pick the few remaining low-hanging fruit from other trees and look for new orchards to satisfy our hunger for growth, these distortions will have increasingly existential ramifications.
