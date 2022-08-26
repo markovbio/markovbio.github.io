@@ -23,19 +23,19 @@ That said, I’ll make a contrarian case for [definite optimism](https://blakema
 
 The first half of the essay is descriptive:
 
-Part 1 will outline the biomedical problem setting and provide a whirlwind tour of progress in experimental tools—the most notable progress in biomedical science over the past two decades.
+<a href="#1-the-biomedical-problem-setting-and-tool-review">Part 1</a> will outline the biomedical problem setting and provide a whirlwind tour of progress in experimental tools—the most notable progress in biomedical science over the past two decades.
 
-Part 2 will touch on some of the evidence for biomedical stagnation. 
+<a href="#2-the-end-of-biomedical-stagnation-is-nigh">Part 2</a> will touch on some of the evidence for biomedical stagnation. 
 
-Part 3 will recast the biomedical control problem as a dynamics modeling problem. We’ll then step back and consider the spectrum of research ethoses this problem can be approached from.
+<a href="#3-the-spectrum-of-biomedical-research-ethoses">Part 3</a> will recast the biomedical control problem as a dynamics modeling problem. We’ll then step back and consider the spectrum of research ethoses this problem can be approached from, drawing on three examples from the history of machine learning.
 
 The second half of the essay is more prescriptive, looking toward the future of biomedical progress and how to hasten it:
 
-Part 4 will explain the scaling hypothesis of biomedical dynamics and why it is correct in the long-run.
+<a href="#4-the-scaling-hypothesis-of-biomedical-dynamics">Part 4</a> will explain the scaling hypothesis of biomedical dynamics and why it is correct in the long-run.
 
-Part 5 will explain why biocomputational capacity is the primary bottleneck to biomedical progress over the next few decades. We’ll then briefly review how to build better biocomputers.
+<a href="#5-biocompute-bottleneck">Part 5</a> will explain why biocomputational capacity is the primary bottleneck to biomedical progress over the next few decades. We’ll then briefly review how to build better biocomputers.
 
-Part 6 will sketch what the near- and long-term future of biomedical research might look like, and the role non-human agents will play in it.
+<a href="#6-the-future-of-biomedical-research">Part 6</a> will sketch what the near- and long-term future of biomedical research might look like, and the role non-human agents will play in it.
 
 
 ## Niche, Purpose, and Presentation
@@ -334,7 +334,7 @@ The scopes Pareto frontier has advanced tremendously over the past two decades, 
 However, the ability to read state from biological systems doesn’t alone much improve our understanding of them—for that, we must perturb them.
 
 
-## Scalpels
+### Scalpels
 
 Scalpels are used to experimentally perturb biological systems. The dimensions of the scalpels Pareto frontier are similar to those of the scopes Pareto frontier:
 
@@ -362,7 +362,7 @@ CRISPR is not the first system to perform most of these functions, and it certai
 In conjunction, these scopes and scalpels have enabled interrogating the genome at unprecedented resolution and throughput. 
 
 
-## Using Scopes and Scalpels to Interrogate the Genome and Beyond
+### Using Scopes and Scalpels to Interrogate the Genome and Beyond
 
 By perturbing the genome and observing how the state of a biological system shifts, we can infer the mechanistic structure underlying that biological system. Advances in scopes and scalpels have made it possible to do this at massive scale.
 
@@ -1011,7 +1011,7 @@ Our rate of progress on this task is the main determinant of the rate of biocomp
 
 Here’s the interesting thing: reverse-engineering development can be framed as a biomedical control task and therefore is amenable to the scaling laws approach. In effect, the challenge is to use physiological cues to guide multicellular systems into growing toward the desired stable “social” configurations. This is an extremely challenging representation learning and reinforcement learning problem (one might even call it a multi-agent reinforcement learning problem).<input type="checkbox" id="cb38" /><label for="cb38"><sup></sup></label><span><br><br>Much more could be said here. Discovering how to operationalize the scaling laws reframing of the developmental control problem is left as an exercise for the reader. Hint: biological entities (cells, tissues, organs, etc.) can [be thought of](https://www.sciencedirect.com/science/article/abs/pii/S1571064519300909) as [wrapped in](https://www.sciencedirect.com/science/article/pii/S0022519319304588) hierarchical [Markov blankets](https://en.wikipedia.org/wiki/Markov_blanket). This information-processing perspective is complementary to the [social agents](https://www.biorxiv.org/content/10.1101/2022.05.16.492018v1) [perspective](https://twitter.com/DJCohenEtAl/status/1548001454127845378), which is particularly appropriate for development:<br><br><i>"We find that graded Nodal signaling, in addition to its highly conserved role in mesendoderm patterning, mechanically subdivides the tissue into a small fraction of highly protrusive leader cells able to locally unjam and thus autonomously internalize, and less protrusive followers, which remain jammed and need to be pulled inwards by the leaders…we further show that this binary mechanical switch, when combined with Nodal-dependent preferential adhesion coupling leaders to followers, is critical for triggering collective and orderly mesendoderm internalization, thus preserving tissue patterning. This provides a simple, yet quantitative, theoretical framework for how a morphogen-encoded (un)jamming transition can bidirectionally couple tissue mechanics with patterning during complex three-dimensional morphogenesis."</i><br><br></span>
 
-## 6.The Future of Biomedical Research
+## 6. The Future of Biomedical Research
 
 We have established that biomedical dynamics can be approximated through large neural networks trained on lots of data; the predictive performance of these models is a power-law function of these data; and how much these data improve predictive performance depends on the external validity of the biocomputational system they were generated by.
 
