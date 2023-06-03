@@ -4,6 +4,7 @@ title:  "Single-Cell Encoder Models: Toward a Statistical Physics of Emergent Ag
 date:   2023-06-03 15:38:39 -0400
 permalink: /scaling-laws-of-agency/
 ---
+<meta name="twitter:card" content="Have the biological sciences exhausted nature of all its general laws, leaving us with only factoids to collect, or are there yet more general laws of biology to discover? If so, what form will they take?"></meta>
 
 In a previous essay, I posed a question: have the biological sciences exhausted nature of all its general laws, leaving us with only factoids to collect, or are there yet more general laws of biology to discover? If so, what form will they take?
 
