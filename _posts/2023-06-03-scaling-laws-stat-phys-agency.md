@@ -195,11 +195,11 @@ The connection between these two literatures is: a cellular differentiation even
 
 To return to the evolutionary insight we began the piece with, evolution contours or carves regions of cellular state-space through selection. The dimensionality of these regions might reflect a kind of conservation metric: tighter dimensionality bottlenecks reflect trajectories in state-space that must be threaded more precisely. But what, exactly, do the cellular states actually represent? What are the cells actually _doing_?
 
-To answer that, let's return to our encoder models. We can extend ANDRE to spatial data simply by passing in an additional type of embedding that encodes cell's positions relative to one another. Plotted below is the resulting attention heatmap for a group of six cells (I've deliberately omitted the gene names):
+To answer that, let's return to our encoder models. We can extend ANDRE to spatial data simply by passing in an additional type of embedding that encodes cell's positions relative to one another. Plotted below is the resulting attention heatmap for a group of four cells (I've deliberately omitted the gene names):
 
 <iframe src="https://chart-studio.plotly.com/~markovbio/6.embed" height="500" width="100%" frameborder="0" loading="lazy"></iframe>
 
-The checkerboard heatmap shows the attentions within and between these six cells. Clearly some cells attend highly to other cells, and some don't attend to anything outside themself much at all. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and the encoder model asymptotically approaches a model of this internal model as we throw more data at it.
+The checkerboard heatmap shows the attentions within and between these four cells. Clearly some cells attend highly to other cells, and some don't attend to anything outside themself much at all. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and the encoder model asymptotically approaches a model of this internal model as we throw more data at it.
 
 The framework for understanding how this happens is the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle). Though typically thought of as the preserve of strange neuroscientists and philosophers of mind, this framework holds the key to extending our encoder framework across scales.
 
