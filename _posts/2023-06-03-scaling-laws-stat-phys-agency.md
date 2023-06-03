@@ -5,7 +5,7 @@ date:   2023-06-03 15:38:39 -0400
 permalink: /scaling-laws-of-agency/
 ---
 
-In a previous essay, I posed a question: have the biological sciences exhausted nature of all its general laws, leaving us with only factoids to collect, or are there yet more general laws of biology to discover? If so, what form will they take?
+In a previous essay, I posed a question: has nature been exhausted of all its general biological laws, leaving us with only factoids to collect, or are there yet more general laws of biology to discover? If so, what form will they take?
 
 This essay is a first pass at answering those questions. It has two main aims:
 - To showcase the capabilities of encoder models trained on large amounts of single-cell transcriptomic data, which will capture general laws of biology and form the basis of a new class of biomedical research tools
