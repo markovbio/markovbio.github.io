@@ -94,7 +94,7 @@ First I'll discuss how this was done and provide some analogies for how to think
 
 ### A Transcriptome is a Bag-of-Transcripts, Not a Sentence
 
-In the few instances where language models are talked about in the context of single-cell transcriptomic data, there's often an incorrect appeal to "cells as sentences". This metaphor is doubly harmful: not only are single-cell transcriptomic profiles not analogous to sentences (sentences have a linear order, whereas gene counts do not), but this misconstrual also acts as an obstacle to a proper analogy for how to use the position embeddings to model single-cell data.
+In the few instances where language models are talked about in the context of single-cell transcriptomic data, there's often an incorrect appeal to "cells as sentences". This metaphor is doubly harmful: not only are single-cell transcriptomic profiles not analogous to sentences (sentences have a linear order, whereas gene counts do not), but this misconstrual also acts as an obstacle to a proper analogy for how to use position embeddings to model single-cell data.
 
 A single-cell is both literally and figuratively a [bag-of-transcripts](https://en.wikipedia.org/wiki/Bag-of-words_model), an (unordered) set which can have multiple instances of each gene (counts). To understand how these counts will be encoded by our model, we need to understand how large language models encode position.
 
