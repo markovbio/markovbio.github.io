@@ -31,7 +31,7 @@ What's most striking is how these abilities improved as model size and dataset d
 
 In a [recent follow-up](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v3.full.pdf), however, they scale these models all the way up to 15B parameters and demonstrate predictable improvements in downstream structure prediction over multiple orders of magnitude of scale. Admittedly, the protein-folding performance isn't quite on par with that of folding-specific models. But it would be a grave mistake to cast this class of models as merely a lighter-weight, slightly inferior version of AlphaFold, as some have done.
 
-The name these models were given, Evolutionary Scale Modeling (ESM, though a more apt name would be Evolutionary _Structural_ Modeling. in my opinion), captures the non-trivial insight they're based on:
+The name these models were given, Evolutionary Scale Modeling (ESM, though a more apt name would be Evolutionary _Structural_ Modeling, in my opinion), captures the non-trivial insight they're based on:
 
 > The emergence of atomic level structure in language models reveals a high resolution picture of protein structure **that is encoded by evolution into sequence patterns** across millions of proteins, adding to the evidence that the unsupervised training objective materializes deep information about the
 biology of proteins.
