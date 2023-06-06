@@ -50,7 +50,7 @@ In response to exponential progress in tools for reading state from single cells
 
 The start of this field is best dated to a [seminal 2014 publication](https://www.nature.com/articles/nbt.2859) by Trapnell et al., in which they pioneered a method called "pseudotime". This paper set the direction of the single-cell community over the past roughly 10 years, so it's worth reviewing briefly.
 
-The motivation of the paper is as follows: single-cell RNA sequencing allows us to parse transcriptomic heterogeneity at higher resolution, but the destructive nature of the technique means we cannot longitudinally profile a cell over time. Therefore, we'd like a means of reconstructing single-cell trajectories, e.g. cellular differentiation, from these destructive snapshots of cellular state.
+The motivation of the paper is as follows: single-cell RNA sequencing allows us to parse transcriptomic heterogeneity at higher resolution, but the destructive nature of the technique means we cannot longitudinally profile a cell over time. Therefore, we'd like a means of reconstructing single-cell trajectories, e.g. differentiation, from these destructive snapshots of cellular state.
 
 Trapnell et al.'s solution was to represent each cell as a point in high-dimensional gene expression space. Linear dimensionality reduction is then performed to compress the cells into a lower-dimensional embedding, with cellular proximity proportional to transcriptional distance. A neighbor graph is then fit among the cells in this space, and directional paths, known as "trajectories", are then found on this neighbor graph. These trajectories are meant to model biological processes like cell differentiation and branching.
 
@@ -199,7 +199,7 @@ To answer that, let's return to our encoder models. We can extend ANDRE to spati
 
 <iframe src="https://chart-studio.plotly.com/~markovbio/6.embed" height="500" width="100%" frameborder="0" loading="lazy"></iframe>
 
-The checkerboard heatmap shows the attentions within and between these four cells. Clearly some cells attend highly to other cells, and some don't attend to anything outside themself much at all. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and the encoder model asymptotically approaches a model of this internal model as we throw more data at it.
+The checkerboard heatmap shows the attentions within and between these four cells. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and our encoder model asymptotically approaches this local internal agent model as we more densely sample from that region of state space.
 
 The framework for understanding how this happens is the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle). Though typically thought of as the preserve of strange neuroscientists and philosophers of mind, this framework holds the key to extending our encoder framework across scales.
 
