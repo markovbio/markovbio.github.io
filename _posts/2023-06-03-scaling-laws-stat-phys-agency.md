@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Single-Cell Encoder Models: Toward a Statistical Physics of Emergent Agency"
-date:   2023-06-03 15:38:39 -0400
+date:   2023-06-03 16:38:39 -0400
 permalink: /scaling-laws-of-agency/
 ---
 
