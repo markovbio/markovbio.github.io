@@ -170,7 +170,7 @@ The best reference in this literature is [Sharma and Kaplan](https://arxiv.org/a
 
 Sharma and Kaplan present two results that are of interest to us:
 
-- The scaling exponent, alpha, is approximately equal to (or lower-bounded by) $$\frac{4}{I_{d}}$$  
+- The scaling exponent, alpha, is approximately proportional to (or lower-bounded by) $$\frac{4}{I_{d}}$$  
 - If the manifold is a product of multiple sub-manifolds, the scaling exponent is determined by the maximum of the intrinsic dimensions of these component manifolds
 
 So, I'd like to forward a hypothesis in this vein: gene regulatory networks can be seen as product manifolds, and cellular differentiation can be seen as a process of expanding and contracting the intrinsic dimension of components of this product manifold.<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><br><br>I encourage someone to investigate the product manifold scaling hypothesis using encoder models and [dyngen](https://github.com/dynverse/dyngen).<br><br></span>
