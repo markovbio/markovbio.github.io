@@ -199,7 +199,7 @@ To answer that, let's return to our encoder models. We can extend ANDRE to spati
 
 <iframe src="https://chart-studio.plotly.com/~markovbio/6.embed" height="500" width="100%" frameborder="0" loading="lazy"></iframe>
 
-The checkerboard heatmap shows the attentions within and between these four cells. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and our encoder model asymptotically approaches this local internal agent model as we more densely cover that region of the state space manifold with data.
+The checkerboard heatmap shows the attentions within and between these four cells. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and our encoder model asymptotically approaches this local internal agent model as we more densely cover that region of state space with data.
 
 The framework for understanding how this niche modeling happens is the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle). Though typically thought of as the preserve of strange neuroscientists and philosophers of mind, it holds the key to extending our encoder framework across scales.
 
