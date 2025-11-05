@@ -121,7 +121,7 @@ The single-cell transcriptomic analog of protein-folding might be something like
 
 Plotted below is an interactive heatmap of the maximum attention across twelve attention heads in the first layer of ANDRE for a megakaryocyte-erythroid progenitor (MEP) cell from a [classic hematopoiesis dataset](https://www.sciencedirect.com/science/article/pii/S0092867415014932?via%3Dihub). Genes have been ordered by their expression to better show clustering (and I've removed all special tokens). I've limited the plot  to the top 128 expressed genes, hence why there are so many ribosomal genes. (You can zoom in on the plot by dragging a rectangular selection.)
 
-<iframe src="https://chart-studio.plotly.com/~markovbio/1.embed" height="500" width="100%" frameborder="0" loading="lazy"></iframe>
+_(Interactive figure missing due to Plotly's deprecation of Chart Studio on 10/31/2025)_
 
 Note, for instance, the strong attention in the upper-left submatrix on [TRIM28](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRIM28), a gene which [controls transcription levels of erythroid transcription factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3843238/) like KLF1 and (at least per this heatmap) GATA2, and plays a [critical role in erythropoiesis](https://www.biorxiv.org/content/biorxiv/early/2022/07/13/2022.07.12.499765.full.pdf). Notice also the strong attention of TRIM28 to other core MEP transcription factors like [MYC](https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC), which is generally important to cell stemness.
 
@@ -197,7 +197,7 @@ To return to the evolutionary insight we began the piece with, evolution contour
 
 To answer that, let's return to our encoder models. We can extend ANDRE to spatial data simply by passing in an additional type of embedding that encodes cell's positions relative to one another. Plotted below is the resulting attention heatmap for a group of four cells (I've deliberately omitted the gene names):
 
-<iframe src="https://chart-studio.plotly.com/~markovbio/6.embed" height="500" width="100%" frameborder="0" loading="lazy"></iframe>
+_(Interactive figure missing due to Plotly's deprecation of Chart Studio on 10/31/2025)_
 
 The checkerboard heatmap shows the attentions within and between these four cells. I think this provides a good intuition pump for answering our question: cellular states are best thought of as representing an internal model of the niche the cell finds itself in, and our encoder model asymptotically approaches this local internal agent model as we more densely cover that region of state space with data.
 
